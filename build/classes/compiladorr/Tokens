@@ -1,0 +1,42 @@
+VALORES DE TOKENS
+
+    begin 1
+    end 2
+
+    identificador 5
+    while 10
+    for 11
+    if 20
+    else 30
+    double 40
+    int 50
+    String 60
+
+    * 83
+    / 84
+    % 85
+    + 81
+    - 82
+    ^ 80
+
+    < 97
+    > 98
+    == 96
+    <= 99
+    >= 100
+    != 101
+
+    && 102
+    || 103
+    !  104
+
+    = 90    
+   ; 91
+    ( 92
+    ) 93
+    { 94 
+    } 95   
+
+    valores int 110
+    valores double 120
+    valores String 130
